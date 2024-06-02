@@ -1,3 +1,5 @@
+![image](https://github.com/SarfarazQadir/Ecommerce_Website/assets/144503703/c00cca13-c64d-4f3c-85e9-50d8db94f2c0)
+
 ![image](https://github.com/SarfarazQadir/Ecommerce_Website/assets/144503703/14cc385a-5da7-4ff5-9e03-54268d640d8d)
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
